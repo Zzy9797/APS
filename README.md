@@ -36,6 +36,3 @@
 
 - Step 4: run ```python main_APS.py ```
 
-
-## Note
-When training from scratch or pre-training, use *main_APS.py* as well.
